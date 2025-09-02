@@ -55,7 +55,7 @@ Phishing is when an attacker **pretends to be a trusted person or service** to t
 - **Be healthily suspicious**—better to ask than assume.
 - **Verify on a side channel**—never “reply to the same email” to confirm a request.
 - **Check website addresses carefully** before logging in or entering any details.
-- **Use a password manager** to create and store unique passwords. :contentReference[oaicite:3]{index=3}
+- **Use a password manager** to create and store unique passwords. 
 
 ---
 
