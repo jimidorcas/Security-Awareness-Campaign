@@ -46,7 +46,7 @@ Phishing is when an attacker **pretends to be a trusted person or service** to t
 2. **Check the sender**: Does the domain match the real organisation?
 3. **Hover links**: Does the previewed URL match the text and your expectations?
 4. **Look for context**: Were you expecting this request/attachment?
-5. **Ask via a separate channel**: Confirm by Teams/Slack/phone before acting. :contentReference[oaicite:2]{index=2}
+5. **Ask via a separate channel**: Confirm by Teams/Slack/phone before acting. 
 
 ---
 
