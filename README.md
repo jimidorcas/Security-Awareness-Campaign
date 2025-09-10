@@ -1,6 +1,6 @@
 # 🎯 Phishing Awareness Mini-Program (HR & Marketing Focus)
 
-A compact, practical toolkit to help non-technical teams — especially **HR** and **Marketing** — spot and stop phishing. Includes a slide deck outline, a one-page checklist, and a short quiz you can use in onboarding or refresher training.  
+A compact, practical toolkit to help non-technical teams - especially **HR** and **Marketing** - spot and stop phishing. Includes a slide deck outline, a one-page checklist, and a short quiz you can use in onboarding or refresher training.  
 
 ---
 
