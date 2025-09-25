@@ -5,6 +5,7 @@ A compact, practical toolkit to help non-technical teams - especially **HR** and
 ---
 
 ## 📌 Why HR & Marketing?
+HR and Marketing were identified as the most vulnerable departments during a phishing awareness campaign. I developed a targeted training program for these teams, including a concise slide deck, checklist, and short quiz. This project demonstrates the ability to translate technical threats into clear, actionable training for non-technical staff — a skill essential for reducing human risk in organisations
 In many organisations, HR and Marketing teams are **prime targets for phishing** because:  
 
 - **HR** regularly receives external CVs, job applications, and employee-related documents. Attackers exploit this by sending malicious attachments or links disguised as resumes or HR forms.  
