@@ -1,24 +1,36 @@
 # 🛡️ Security Awareness Campaign
 
 ## 📌 Overview
-A complete **Security Awareness Campaign** designed to reduce human risk and improve security posture.  
-Includes **targeted training for high-risk departments (HR & Marketing)** and **general resources for the public**, aligned with **Cybersecurity Awareness Month** initiatives.  
+A complete Security Awareness Campaign with resources for both **targeted departments** and the **general public**.  
+This campaign supports Cybersecurity Awareness Month by combining **checklists, slides, quizzes, and reporting workflows** to build practical cyber hygiene habits.
 
 ---
 
 ## 📂 Sections
-- **[HR & Marketing Awareness](hr-marketing-awareness/HR_Marketing_Slides.pdf)**  
-  Tailored slides highlighting phishing risks for HR (fake CVs, recruitment scams) and Marketing (fake vendor/partnership requests).  
 
-- **[Public Awareness Resources](public-awareness/)**  
-  Checklists and guides created for general audiences, including the *Phishing Link Verification Checklist*.  
+### 🎯 [Phishing Awareness Mini-Program (HR & Marketing)](phishing-awareness-hr-marketing/)
+A targeted training package for HR and Marketing, who are among the most at-risk departments in phishing campaigns.  
+Includes:
+- Slide deck outline (ready-to-customise training session)  
+- “Spot the Phish” one-page checklist  
+- Quick quiz (5 questions)  
+- Reporting workflow template  
 
-- **[Quizzes](quizzes/awareness_quiz.md)**  
-  Interactive quiz to reinforce awareness training in a simple, engaging way.  
+---
+
+### 🌐 [Public Awareness Resources](public-awareness/)
+General resources designed for the public and wider workforce, including:
+- Phishing Link Verification Checklist  
+- Top 5 Cybersecurity Tips  
+
+---
+
+### 📝 [Quizzes](quizzes/awareness_quiz.md)
+Interactive quiz for employees or general audiences to test their phishing awareness.  
 
 ---
 
 ## 🔑 Key Outcomes
-- Strengthened **department-specific awareness** in HR & Marketing, reducing susceptibility to phishing.  
-- Delivered **clear, reusable resources** for the wider public.  
-- Combined **training, checklists, and interactive learning** to maximise engagement.  
+- Tailored training for **HR & Marketing** to reduce phishing risk.  
+- Practical checklists and tips for the **general public**.  
+- Engaging quizzes and workflows that reinforce security best practices.  
