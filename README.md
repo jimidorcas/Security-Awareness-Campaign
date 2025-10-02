@@ -1,17 +1,24 @@
 # 🛡️ Security Awareness Campaign
 
 ## 📌 Overview
-This project demonstrates my ability to design and deliver a **Security Awareness Campaign**.  
-It includes **targeted training for high-risk departments (HR & Marketing)** as well as **general resources for the wider public** — supporting initiatives like **Cybersecurity Awareness Month**.
+A complete **Security Awareness Campaign** designed to reduce human risk and improve security posture.  
+Includes **targeted training for high-risk departments (HR & Marketing)** and **general resources for the public**, aligned with **Cybersecurity Awareness Month** initiatives.  
 
 ---
 
 ## 📂 Sections
 - **[HR & Marketing Awareness](hr-marketing-awareness/HR_Marketing_Slides.pdf)**  
-  Tailored slides to help HR spot fake CVs and Marketing identify fraudulent vendor requests.
+  Tailored slides highlighting phishing risks for HR (fake CVs, recruitment scams) and Marketing (fake vendor/partnership requests).  
 
 - **[Public Awareness Resources](public-awareness/)**  
-  Downloadable checklists and guides for anyone to use, including a phishing link verification checklist.
+  Checklists and guides created for general audiences, including the *Phishing Link Verification Checklist*.  
 
 - **[Quizzes](quizzes/awareness_quiz.md)**  
-  Short interactive quiz to reinforce learning in a fun way.
+  Interactive quiz to reinforce awareness training in a simple, engaging way.  
+
+---
+
+## 🔑 Key Outcomes
+- Strengthened **department-specific awareness** in HR & Marketing, reducing susceptibility to phishing.  
+- Delivered **clear, reusable resources** for the wider public.  
+- Combined **training, checklists, and interactive learning** to maximise engagement.  
