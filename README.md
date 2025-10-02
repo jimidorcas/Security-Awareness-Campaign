@@ -24,7 +24,7 @@ In phishing awareness campaigns, these two departments are often found to be **m
 ---
 
 ## 📦 What’s Inside
-- `slides/Phishing-Awareness-HR-Marketing.pptx` – 4–6 slide outline ready to customise  
+- `slides/Phishing-Awareness-HR-Marketing.pptx` – 6 slide outline ready to customise  
 - `checklists/Spot-The-Phish-Checklist.pdf` – one-pager for desks or MS Teams/Slack  
 - `quiz/quick-quiz.md` – 5 fast questions for reinforcement  
 - `playbooks/reporting-workflow.md` – how to report & what info to include  
