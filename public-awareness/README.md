@@ -25,4 +25,4 @@ The goal is to share **simple, actionable guidance** that helps reduce everyday 
 
 ---
 
-📌 *Good security habits start with awareness — whether you’re at work or at home.*  
+📌 *Good security habits start with awareness - whether you’re at work or at home.*  
