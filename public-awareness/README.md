@@ -11,12 +11,11 @@ The goal is to share **simple, actionable guidance** that helps reduce everyday 
   A step-by-step guide for **workplace users or semi-technical audiences** who want a more structured way to verify links before clicking.  
 
 - **[Phishing Defense Guide (For Everyone)](Phishing-Defense-Guide.md)**  
-  A super simple guide anyone can follow — even a non-technical person or a child.  
+  A super simple guide anyone can follow - even a non-technical person or a child.  
   Written in plain language with emojis and examples, ideal for the **general public** during Cybersecurity Awareness Month.  
 
 - **[Top 5 Cybersecurity Tips](Top_5_Cybersecurity_Tips.md)**
-  
-  Quick, practical advice for everyday online safety — easy to share in posters, newsletters, or intranet pages.  
+  Quick, practical advice for everyday online safety - easy to share in posters, newsletters, or intranet pages.  
 
 ---
 
