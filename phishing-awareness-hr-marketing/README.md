@@ -26,7 +26,7 @@ In phishing awareness campaigns, these two departments are often found to be **m
 
 ## 📦 What’s Inside
 - **[Phishing-Awareness-HR-Marketing.pptx](Phishing-Awareness-HR-Marketing.pptx)** – 6-slide outline ready to customise for training.  
-- **[Spot-The-Phish-Checklist.pdf](Spot-The-Phish-Checklist.pdf)** – one-pager for desks, intranet, or MS Teams/Slack.  
+- **[Spot-The-Phish-Checklist.pdf](Spot-The-Phish-Checklist.md)** – one-pager for desks, intranet, or MS Teams/Slack.  
 - **[quick-quiz.md](quick-quiz.md)** – 5 fast questions for reinforcement.  
 - **[reporting-workflow.md](reporting-workflow.md)** – step-by-step reporting process for suspected phishing emails.  
 
