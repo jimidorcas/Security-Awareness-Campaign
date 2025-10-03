@@ -14,7 +14,7 @@ The goal is to share **simple, actionable guidance** that helps reduce everyday 
   A super simple guide anyone can follow — even a non-technical person or a child.  
   Written in plain language with emojis and examples, ideal for the **general public** during Cybersecurity Awareness Month.  
 
-- **[Top 5 Cybersecurity Tips](Top_5_Cybersecurity_Tips.md)** *(coming soon)*  
+- **[Top 5 Cybersecurity Tips](Top_5_Cybersecurity_Tips.md)** 
   Quick, practical advice for everyday online safety — easy to share in posters, newsletters, or intranet pages.  
 
 ---
