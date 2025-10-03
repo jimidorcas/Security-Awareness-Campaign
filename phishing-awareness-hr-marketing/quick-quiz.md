@@ -1,4 +1,4 @@
-# 📝 Quick Quiz – Phishing Awareness (HR & Marketing)
+# 📝 Quick Quiz – Phishing Awareness 
 
 Test your phishing awareness! Answer these 5 quick questions.  
 (Answers at the bottom — no peeking 😉)
