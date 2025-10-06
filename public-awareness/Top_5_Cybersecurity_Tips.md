@@ -39,4 +39,4 @@ Here are 5 quick tips you can follow every day:
 
 ---
 
-📌 *Remember: Cybersecurity is like brushing your teeth — small daily habits make a big difference.*  
+📌 *Remember: Cybersecurity is like brushing your teeth - small daily habits make a big difference.*  
