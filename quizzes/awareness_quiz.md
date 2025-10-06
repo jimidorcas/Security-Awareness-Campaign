@@ -1,7 +1,7 @@
 # 🧠 Cybersecurity Awareness Quiz
 
 A short quiz to test your everyday cybersecurity awareness.  
-Read each question carefully — answers are at the bottom.
+Read each question carefully - answers are at the bottom.
 
 ---
 
