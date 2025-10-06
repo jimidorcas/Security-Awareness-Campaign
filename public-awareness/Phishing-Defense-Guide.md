@@ -1,7 +1,7 @@
 # 🛡️ Phishing Defense Guide (For Everyone)
 
 Phishing is when a bad person pretends to be someone you trust (like your bank, boss, or a friend) to trick you into clicking a link or giving away secrets.  
-Here’s how **anyone** can stay safe — explained as simply as possible.  
+Here’s how **anyone** can stay safe  
 
 ---
 
