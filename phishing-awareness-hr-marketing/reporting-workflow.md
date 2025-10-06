@@ -41,4 +41,4 @@ Once reported, IT/Security will:
 ---
 
 📌 **Remember:** Quick reporting helps protect the entire organisation.  
-When in doubt — **report first, ask questions later.**
+When in doubt - **report first, ask questions later.**
