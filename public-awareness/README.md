@@ -1,6 +1,6 @@
 # 🌐 Public Awareness - Cybersecurity Awareness Month
 
-This folder contains **general cybersecurity awareness resources** designed for a wide audience — from everyday users to employees with some technical awareness.  
+This folder contains **general cybersecurity awareness resources** designed for a wide audience - from everyday users to employees with some technical awareness.  
 The goal is to share **simple, actionable guidance** that helps reduce everyday cyber risks.  
 
 ---
