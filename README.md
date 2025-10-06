@@ -25,8 +25,8 @@ General resources designed for the public and wider workforce, including:
 
 ---
 
-### 📝 [Quizzes](quizzes/awareness_quiz.md)
-Interactive quiz for employees or general audiences to test their phishing awareness.  
+### - **[Quizzes](quizzes/)**  
+  Interactive content designed to reinforce training in a simple, engaging way.  
 
 ---
 
