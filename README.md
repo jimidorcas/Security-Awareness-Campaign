@@ -25,7 +25,8 @@ General resources designed for the public and wider workforce, including:
 
 ---
 
-### - **[Quizzes](quizzes/)**  
+### **[Quizzes](quizzes/)**  
+
   Interactive content designed to reinforce training in a simple, engaging way.  
 
 ---
